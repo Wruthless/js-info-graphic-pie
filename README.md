@@ -27,7 +27,7 @@ document.querySelector("#chart").append(pieChart({
 }));
 </pre>
 
-All attributes are set start on line 44.
+All attributes are set starting on line 44.
 
 <pre>
     let slice = document.createElementNS(svg, 'path');
